@@ -35,7 +35,7 @@
 ![image](https://github.com/user-attachments/assets/2180fb45-c60a-40c5-8230-c8bb6440f05c)
 ![image](https://github.com/user-attachments/assets/abc50a6f-6dcd-41f4-8bc6-3ba091526fd8)
 
-
+<br>
 
 #### AS A ADMIN SEE
 - HOME (DASHBOARD) SECTION
@@ -60,27 +60,12 @@
 ![image](https://github.com/user-attachments/assets/7096b363-5742-4938-9c41-f7f085ef94de)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+(br>
 
 
 # Founder
-Beligan Britney | +63 920 282 8675
-Bitoon Rayleen | +63 991 879 3730
-Edroso Harbey | @Ka_Harbey (Telegram)
-Enaje Erikka Marielle | +63 968 720 3865
-Rodriguez Babylene | +63 991 381 5633
+1. Beligan Britney | +63 920 282 8675
+2. Bitoon Rayleen | +63 991 879 3730
+3. Edroso Harbey | @Ka_Harbey (Telegram)
+4. Enaje Erikka Marielle | +63 968 720 3865
+5. Rodriguez Babylene | +63 991 381 5633
